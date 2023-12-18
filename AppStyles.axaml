@@ -17,6 +17,9 @@
 		<Setter Property="VerticalContentAlignment" Value="Center"/>
 		<Setter Property="Foreground" Value="#FFFFFF"/>
 	</Style>
+	<Style Selector="Button[IsEnabled=false]">
+		<Setter Property="Opacity" Value="0.4"/>
+	</Style>
 
 	<Style Selector="TextBlock">
 		<Setter Property="HorizontalAlignment" Value="Stretch"/>

@@ -260,3 +260,4 @@ C:\Users\Lera\Dropbox\Мой ПК (DESKTOP-4OE1OR2)\Documents\programming\про
 C:\Users\Lera\Dropbox\Мой ПК (DESKTOP-4OE1OR2)\Documents\programming\прога универ\TaskManager\TaskManager\obj\Debug\net8.0\refint\TaskManager.dll
 C:\Users\Lera\Dropbox\Мой ПК (DESKTOP-4OE1OR2)\Documents\programming\прога универ\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.genruntimeconfig.cache
 C:\Users\Lera\Dropbox\Мой ПК (DESKTOP-4OE1OR2)\Documents\programming\прога универ\TaskManager\TaskManager\obj\Debug\net8.0\ref\TaskManager.dll
+C:\Users\Lera\Dropbox\Мой ПК (DESKTOP-4OE1OR2)\Documents\programming\прога универ\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.sourcelink.json

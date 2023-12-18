@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lera\\Dropbox\\\u041C\u043E\u0439 \u041F\u041A (DESKTOP-4OE1OR2)\\Documents\\programming\\\u043F\u0440\u043E\u0433\u0430 \u0443\u043D\u0438\u0432\u0435\u0440\\TaskManager\\TaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4301DF0-9E14-4CC3-A1FC-1B8DAD46C602}|TaskManager.csproj|c:\\users\\lera\\dropbox\\\u043C\u043E\u0439 \u043F\u043A (desktop-4oe1or2)\\documents\\programming\\\u043F\u0440\u043E\u0433\u0430 \u0443\u043D\u0438\u0432\u0435\u0440\\taskmanager\\taskmanager\\appstyles.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D4301DF0-9E14-4CC3-A1FC-1B8DAD46C602}|TaskManager.csproj|solutionrelative:appstyles.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4301DF0-9E14-4CC3-A1FC-1B8DAD46C602}|TaskManager.csproj|c:\\users\\lera\\dropbox\\\u043C\u043E\u0439 \u043F\u043A (desktop-4oe1or2)\\documents\\programming\\\u043F\u0440\u043E\u0433\u0430 \u0443\u043D\u0438\u0432\u0435\u0440\\taskmanager\\taskmanager\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4301DF0-9E14-4CC3-A1FC-1B8DAD46C602}|TaskManager.csproj|solutionrelative:mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4301DF0-9E14-4CC3-A1FC-1B8DAD46C602}|TaskManager.csproj|c:\\users\\lera\\dropbox\\\u043C\u043E\u0439 \u043F\u043A (desktop-4oe1or2)\\documents\\programming\\\u043F\u0440\u043E\u0433\u0430 \u0443\u043D\u0438\u0432\u0435\u0440\\taskmanager\\taskmanager\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D4301DF0-9E14-4CC3-A1FC-1B8DAD46C602}|TaskManager.csproj|solutionrelative:mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4301DF0-9E14-4CC3-A1FC-1B8DAD46C602}|TaskManager.csproj|c:\\users\\lera\\dropbox\\\u043C\u043E\u0439 \u043F\u043A (desktop-4oe1or2)\\documents\\programming\\\u043F\u0440\u043E\u0433\u0430 \u0443\u043D\u0438\u0432\u0435\u0440\\taskmanager\\taskmanager\\service\\taskitemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4301DF0-9E14-4CC3-A1FC-1B8DAD46C602}|TaskManager.csproj|solutionrelative:service\\taskitemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4301DF0-9E14-4CC3-A1FC-1B8DAD46C602}|TaskManager.csproj|c:\\users\\lera\\dropbox\\\u043C\u043E\u0439 \u043F\u043A (desktop-4oe1or2)\\documents\\programming\\\u043F\u0440\u043E\u0433\u0430 \u0443\u043D\u0438\u0432\u0435\u0440\\taskmanager\\taskmanager\\models\\logmessageitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4301DF0-9E14-4CC3-A1FC-1B8DAD46C602}|TaskManager.csproj|solutionrelative:models\\logmessageitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppStyles.axaml",
+              "DocumentMoniker": "C:\\Users\\Lera\\Dropbox\\\u041C\u043E\u0439 \u041F\u041A (DESKTOP-4OE1OR2)\\Documents\\programming\\\u043F\u0440\u043E\u0433\u0430 \u0443\u043D\u0438\u0432\u0435\u0440\\TaskManager\\TaskManager\\AppStyles.axaml",
+              "RelativeDocumentMoniker": "AppStyles.axaml",
+              "ToolTip": "C:\\Users\\Lera\\Dropbox\\\u041C\u043E\u0439 \u041F\u041A (DESKTOP-4OE1OR2)\\Documents\\programming\\\u043F\u0440\u043E\u0433\u0430 \u0443\u043D\u0438\u0432\u0435\u0440\\TaskManager\\TaskManager\\AppStyles.axaml",
+              "RelativeToolTip": "AppStyles.axaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-12-18T01:30:18.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lera\\Dropbox\\\u041C\u043E\u0439 \u041F\u041A (DESKTOP-4OE1OR2)\\Documents\\programming\\\u043F\u0440\u043E\u0433\u0430 \u0443\u043D\u0438\u0432\u0435\u0440\\TaskManager\\TaskManager\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\Lera\\Dropbox\\\u041C\u043E\u0439 \u041F\u041A (DESKTOP-4OE1OR2)\\Documents\\programming\\\u043F\u0440\u043E\u0433\u0430 \u0443\u043D\u0438\u0432\u0435\u0440\\TaskManager\\TaskManager\\MainWindow.axaml.cs",
+              "RelativeToolTip": "MainWindow.axaml.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAA3wEQAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-10T22:00:37.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogMessageItem.cs",
+              "DocumentMoniker": "C:\\Users\\Lera\\Dropbox\\\u041C\u043E\u0439 \u041F\u041A (DESKTOP-4OE1OR2)\\Documents\\programming\\\u043F\u0440\u043E\u0433\u0430 \u0443\u043D\u0438\u0432\u0435\u0440\\TaskManager\\TaskManager\\Models\\LogMessageItem.cs",
+              "RelativeDocumentMoniker": "Models\\LogMessageItem.cs",
+              "ToolTip": "C:\\Users\\Lera\\Dropbox\\\u041C\u043E\u0439 \u041F\u041A (DESKTOP-4OE1OR2)\\Documents\\programming\\\u043F\u0440\u043E\u0433\u0430 \u0443\u043D\u0438\u0432\u0435\u0440\\TaskManager\\TaskManager\\Models\\LogMessageItem.cs",
+              "RelativeToolTip": "Models\\LogMessageItem.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-16T11:11:24.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskItemList.cs",
+              "DocumentMoniker": "C:\\Users\\Lera\\Dropbox\\\u041C\u043E\u0439 \u041F\u041A (DESKTOP-4OE1OR2)\\Documents\\programming\\\u043F\u0440\u043E\u0433\u0430 \u0443\u043D\u0438\u0432\u0435\u0440\\TaskManager\\TaskManager\\Service\\TaskItemList.cs",
+              "RelativeDocumentMoniker": "Service\\TaskItemList.cs",
+              "ToolTip": "C:\\Users\\Lera\\Dropbox\\\u041C\u043E\u0439 \u041F\u041A (DESKTOP-4OE1OR2)\\Documents\\programming\\\u043F\u0440\u043E\u0433\u0430 \u0443\u043D\u0438\u0432\u0435\u0440\\TaskManager\\TaskManager\\Service\\TaskItemList.cs",
+              "RelativeToolTip": "Service\\TaskItemList.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-16T10:56:59.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\Lera\\Dropbox\\\u041C\u043E\u0439 \u041F\u041A (DESKTOP-4OE1OR2)\\Documents\\programming\\\u043F\u0440\u043E\u0433\u0430 \u0443\u043D\u0438\u0432\u0435\u0440\\TaskManager\\TaskManager\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "MainWindow.axaml",
+              "ToolTip": "C:\\Users\\Lera\\Dropbox\\\u041C\u043E\u0439 \u041F\u041A (DESKTOP-4OE1OR2)\\Documents\\programming\\\u043F\u0440\u043E\u0433\u0430 \u0443\u043D\u0438\u0432\u0435\u0440\\TaskManager\\TaskManager\\MainWindow.axaml",
+              "RelativeToolTip": "MainWindow.axaml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-12-10T22:00:31.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
