@@ -1,0 +1,100 @@
+<Styles xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Design.PreviewWith>
+    <Border Padding="20">
+      <!-- Add Controls for Previewer Here -->
+    </Border>
+  </Design.PreviewWith>
+	
+	<Style Selector="ProgressBar">
+		<Setter Property="HorizontalAlignment" Value="Stretch"/>
+	</Style>
+
+	<Style Selector="Button">
+		<Setter Property="HorizontalAlignment" Value="Stretch"/>
+		<Setter Property="VerticalAlignment" Value="Center"/>
+		<Setter Property="HorizontalContentAlignment" Value="Center"/>
+		<Setter Property="VerticalContentAlignment" Value="Center"/>
+		<Setter Property="Foreground" Value="#FFFFFF"/>
+	</Style>
+
+	<Style Selector="TextBlock">
+		<Setter Property="HorizontalAlignment" Value="Stretch"/>
+		<Setter Property="VerticalAlignment" Value="Center"/>
+		<Setter Property="TextAlignment" Value="Center"/>
+		<Setter Property="Foreground" Value="#FFFFFF"/>
+	</Style>
+
+	<Style Selector="Grid.logMessage">
+		<Setter Property="Margin" Value="5"/>
+		<Setter Property="HorizontalAlignment" Value="Stretch"/>
+	</Style>
+
+	<Style Selector="Grid.logMessage > TextBlock">
+		<Setter Property="FontSize" Value="14"/>
+		<Setter Property="HorizontalAlignment" Value="Left"/>
+
+		<Setter Property="VerticalAlignment" Value="Top"/>
+		<Setter Property="TextAlignment" Value="Left"/>
+		<Setter Property="TextWrapping" Value="Wrap"/>
+		<Setter Property="Margin" Value="0"/>
+	</Style>
+
+	<Style Selector="#TaskPanel.HideObjectsA > Grid.A">
+		<Setter Property="IsVisible" Value="false"/>
+	</Style>
+	
+	<Style Selector="#TaskPanel.HideObjectsB > Grid.B">
+		<Setter Property="IsVisible" Value="false"/>
+	</Style>
+	
+	<Style Selector="Button.hiddenTasks">
+		<Setter Property="Background" Value="#545454"/>
+		<Setter Property="Foreground" Value="#FFFFFF"/>
+		<Setter Property="Opacity" Value="0.5"/>
+	</Style>
+
+	<Style Selector="Grid.taskContainer">
+		<Setter Property="Margin" Value="20,20,20,10"/>
+	</Style>
+	
+	<Style Selector="Grid.A > ProgressBar">
+		<Setter Property="Foreground" Value="#498723"/>
+		<Setter Property="Background" Value="#3C6721"/>
+		<Setter Property="BorderBrush" Value="#3C6721"/>
+		<Setter Property="BorderThickness" Value="3"/>
+	</Style>
+	<Style Selector="Grid.B > ProgressBar">
+		<Setter Property="Foreground" Value="#8F429B"/>
+		<Setter Property="Background" Value="#6D3775"/>
+		<Setter Property="BorderBrush" Value="#6D3775"/>
+		<Setter Property="BorderThickness" Value="3"/>
+	</Style>
+	
+	<Style Selector="Grid.pausedTask > ProgressBar">
+		<Setter Property="Foreground" Value="#BF732D"/>
+	</Style>
+	
+	<Style Selector="Grid.errorTask > ProgressBar">
+		<Setter Property="Background" Value="#672121"/>
+		<Setter Property="BorderBrush" Value="#672121"/>
+	</Style>
+	
+	
+	<Style Selector="Grid.isToggled > ProgressBar">
+		<Setter Property="Grid.ColumnSpan" Value="3"/>
+	</Style>
+	<Style Selector="Grid.isToggled > TextBlock">
+		<Setter Property="Grid.ColumnSpan" Value="3"/>
+	</Style>
+	<Style Selector="Grid.isToggled > TextBlock.taskOptions">
+		<Setter Property="IsVisible" Value="false"/>
+	</Style>
+	<Style Selector="Grid.isToggled > Button.taskOptions">
+		<Setter Property="IsVisible" Value="false"/>
+	</Style>
+	<Style Selector="Grid.isToggled > Button.toggleButton">
+		<Setter Property="HorizontalAlignment" Value="Stretch"/>
+		<Setter Property="Grid.ColumnSpan" Value="3"/>
+	</Style>
+</Styles>
