@@ -111,8 +111,8 @@ public partial class MainWindow : Window
 
         var button = source as Button;
         var parent = button.Parent as Grid;
+        tasksList.DeleteItemByIndex(TaskPanel.Children.IndexOf(parent));
         TaskPanel.Children.Remove(parent);
-        tasksList.DeleteItemByIndex(Convert.ToInt32(button.Tag) - 1);
         DisplayLogMessage($"Была удалена задача №{button.Tag.ToString()}");
         ButtonHandler();
     }
@@ -325,7 +325,6 @@ public partial class MainWindow : Window
 
     }
 
-
     public async Task StartTask(ProgressBar task, TextBlock progressCounter, TaskItem newTask)
     {
         var progress = new Progress<TaskItem>();
@@ -334,8 +333,6 @@ public partial class MainWindow : Window
             task.Value = report.ProgressValue;
             progressCounter.Text = $"{report.ProgressValue} / 100";
         };
-
-
 
         await ProcessData(progress, newTask, newTask.CancellationTokenSource.Token, task);
 
